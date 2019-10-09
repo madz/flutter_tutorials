@@ -15,8 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/Optimized-Screenshot_1570647621.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/Optimized-Screenshot_1570647681.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/Optimized-Screenshot_1570647925.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/Optimized-Screenshot_1570648091.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/Optimized-Screenshot_1570648702%20(1).png)
+![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/Optimized-Screenshot_1570647621.png)
+![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/Optimized-Screenshot_1570647681.png)
+![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/Optimized-Screenshot_1570647925.png)
+![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/Optimized-Screenshot_1570648091.png)
+![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/Optimized-Screenshot_1570648702%20.png)
+![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/rsz_21screenshot_1570656527.png)
