@@ -21,4 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 ![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/Optimized-Screenshot_1570648091.png)
 ![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/Optimized-Screenshot_1570648702.png)
 ![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/rsz_21screenshot_1570656527.png)
+![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/bitcoin_ticker.png)
+![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/clima.png)
 ![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/flash_chat.png)
