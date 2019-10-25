@@ -83,7 +83,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                                 email: _email, password: _password);
 
                         if (newUser != null) {
-                          Navigator.pushReplacementNamed(
+                          await Navigator.pushReplacementNamed(
                               context, ChatScreen.id);
                         }
 
