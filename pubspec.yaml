@@ -17,6 +17,8 @@ dependencies:
   flutter_spinkit: ^4.0.0
   animated_text_kit: ^1.3.1
   modal_progress_hud: ^0.1.3
+  provider: ^3.1.0+1
+
 
   #firebase libs
   firebase_core: ^0.4.0+9
@@ -27,7 +29,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  lint: ^0.3.2+dart205
+  #lint: ^0.3.2+dart205
+  pedantic: ^1.8.0+1
 flutter:
   uses-material-design: true
   assets:
