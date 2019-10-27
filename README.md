@@ -1,6 +1,6 @@
 # Flutter Tutorials
 
-Flutter Tutorials
+Small apps that I developed while exploring Flutter.
 
 ## Getting Started
 
