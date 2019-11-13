@@ -15,13 +15,16 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/bmi_calculator.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/dicee.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/magic_8_ball.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/xylophone.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/mi_card.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/destini.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/bitcoin_ticker.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/clima.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/flash_chat.png)
-![alt text](https://github.com/madz/flutter_tutorials/blob/master/screenshots/todoey.png)
+
+<div style="display:flex;flex-direction:row;">
+        <img src="screenshots/bmi_calculator.png" alt="screen_01" height="400" />
+        <img src="screenshots/dicee.png" alt="screen_02" height="400" />
+        <img src="screenshots/magic_8_ball.png" alt="screen_02" height="400" />
+        <img src="screenshots/xylophone.png" alt="screen_02" height="400" />
+        <img src="screenshots/mi_card.png" alt="screen_02" height="400" />
+        <img src="screenshots/destini.png" alt="screen_02" height="400" />
+        <img src="screenshots/bitcoin_ticker.png" alt="screen_02" height="400" />
+        <img src="screenshots/clima.png" alt="screen_02" height="400" />
+        <img src="screenshots/flash_chat.png" alt="screen_02" height="400" />
+        <img src="screenshots/todoey.png" alt="screen_02" height="400" />
+</div>
