@@ -17,14 +17,14 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <div style="display:flex;flex-direction:row;">
-        <img src="screenshots/bmi_calculator.png" alt="screen_01" height="400" />
-        <img src="screenshots/dicee.png" alt="screen_02" height="400" />
-        <img src="screenshots/magic_8_ball.png" alt="screen_02" height="400" />
-        <img src="screenshots/xylophone.png" alt="screen_02" height="400" />
-        <img src="screenshots/mi_card.png" alt="screen_02" height="400" />
+        <img src="screenshots/bmi_calculator1.png" alt="screen_01" height="400" />
+        <img src="screenshots/dicee.png1" alt="screen_02" height="400" />
+        <img src="screenshots/magic_8_ball1.png" alt="screen_02" height="400" />
+        <img src="screenshots/xylophone.png1" alt="screen_02" height="400" />
+        <img src="screenshots/mi_card.png1" alt="screen_02" height="400" />
         <img src="screenshots/destini.png" alt="screen_02" height="400" />
-        <img src="screenshots/bitcoin_ticker.png" alt="screen_02" height="400" />
+        <img src="screenshots/bitcoin_ticker1.png" alt="screen_02" height="400" />
         <img src="screenshots/clima.png" alt="screen_02" height="400" />
-        <img src="screenshots/flash_chat.png" alt="screen_02" height="400" />
-        <img src="screenshots/todoey.png" alt="screen_02" height="400" />
+        <img src="screenshots/flash_chat1.png" alt="screen_02" height="400" />
+        <img src="screenshots/todoey.png1" alt="screen_02" height="400" />
 </div>
