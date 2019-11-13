@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
         <img src="screenshots/mi_card1.png" alt="screen_02" height="400" />
         <img src="screenshots/destini1.png" alt="screen_02" height="400" />
         <img src="screenshots/bitcoin_ticker1.png" alt="screen_02" height="400" />
-        <img src="screenshots/clima1.png" alt="screen_02" height="400" />
+        <img src="screenshots/clima.png" alt="screen_02" height="400" />
         <img src="screenshots/flash_chat1.png" alt="screen_02" height="400" />
         <img src="screenshots/todoey1.png" alt="screen_02" height="400" />
 </div>
