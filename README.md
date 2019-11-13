@@ -18,13 +18,13 @@ samples, guidance on mobile development, and a full API reference.
 
 <div style="display:flex;flex-direction:row;">
         <img src="screenshots/bmi_calculator1.png" alt="screen_01" height="400" />
-        <img src="screenshots/dicee.png1" alt="screen_02" height="400" />
+        <img src="screenshots/dicee1.png" alt="screen_02" height="400" />
         <img src="screenshots/magic_8_ball1.png" alt="screen_02" height="400" />
-        <img src="screenshots/xylophone.png1" alt="screen_02" height="400" />
-        <img src="screenshots/mi_card.png1" alt="screen_02" height="400" />
-        <img src="screenshots/destini.png" alt="screen_02" height="400" />
+        <img src="screenshots/xylophone1.png" alt="screen_02" height="400" />
+        <img src="screenshots/mi_card1.png" alt="screen_02" height="400" />
+        <img src="screenshots/destini1.png" alt="screen_02" height="400" />
         <img src="screenshots/bitcoin_ticker1.png" alt="screen_02" height="400" />
-        <img src="screenshots/clima.png" alt="screen_02" height="400" />
+        <img src="screenshots/clima1.png" alt="screen_02" height="400" />
         <img src="screenshots/flash_chat1.png" alt="screen_02" height="400" />
-        <img src="screenshots/todoey.png1" alt="screen_02" height="400" />
+        <img src="screenshots/todoey1.png" alt="screen_02" height="400" />
 </div>
